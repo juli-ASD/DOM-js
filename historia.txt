@@ -1,1 +1,3 @@
 Iniciamos con las pruebas de Git
+
+Ahora realizamos un cambio incomplet.
